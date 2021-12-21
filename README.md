@@ -12,5 +12,5 @@ PyTorch redesigns and implements Torch in Python while sharing the same core C l
 
 ## Features
 
-*Easy Interface*
-- 
+###Easy Interface
+- PyTorch offers easy to use API hence it is considered to be very simple to operate and runs on Python. The code execution in this framework is quite easy

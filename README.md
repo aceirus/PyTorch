@@ -28,3 +28,20 @@ PyTorch redesigns and implements Torch in Python while sharing the same core C l
    - Variable: Node in computational graph. This stores data and gradient.
 
    - Module: Neural network layer which will store state or learnable weights.
+
+### Advantages of PyTorch
+The following are the advantages of PyTorch:
+
+- easy to debug and understand the code
+
+- includes many layers as Torch
+
+- lot of loss functions
+
+- can be considered as NumPy extension to GPUs
+
+- allows building networks whose structure is dependent on computation itself
+
+### TensorFlow vs. PyTorch
+
+

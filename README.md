@@ -21,10 +21,10 @@ PyTorch redesigns and implements Torch in Python while sharing the same core C l
 ### Computational graphs 
 - PyTorch provides an excellent platform which offers dynamic computational graphs. Thus a user can change them during runtime. This is highly useful when a developer has no idea of how much memory is required for creating a neural network model.
 
-PyTorch is known for having three levels of abstraction as given below −
+- PyTorch is known for having three levels of abstraction as given below −
 
--- Tensor − Imperative n-dimensional array which runs on GPU.
+   - Tensor: Imperative n-dimensional array which runs on GPU.
 
--- Variable − Node in computational graph. This stores data and gradient.
+   - Variable: Node in computational graph. This stores data and gradient.
 
--- Module − Neural network layer which will store state or learnable weights.
+   - Module: Neural network layer which will store state or learnable weights.

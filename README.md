@@ -19,7 +19,7 @@ PyTorch redesigns and implements Torch in Python while sharing the same core C l
 - This library is considered to be Pythonic (as mentioned earlier) which smoothly integrates with the Python data science stack. Thus, it can leverage all the services and functionalities offered by the Python environment.
 
 ### Computational graphs 
-- PyTorch provides an excellent platform which offers dynamic computational graphs, which means that a user can change them during runtime. This is very useful when a developer has no way of telling how much memory is required for creating a neural network model.
+- PyTorch provides an excellent platform which offers dynamic computational graphs, which means that a user can make changes during runtime. This is very useful when a developer has no way of telling how much memory is required for creating a neural network model.
 
 - PyTorch is known for having three levels of abstraction as given below
 
@@ -36,9 +36,9 @@ The following are the advantages of PyTorch:
 
 - includes many layers as Torch
 
-- lot of loss functions
+- contains a lot of loss functions
 
-- can be considered as NumPy extension to GPUs
+- can be considered as form of NumPy extension to GPUs
 
 - allows building networks whose structure is dependent on computation itself
 

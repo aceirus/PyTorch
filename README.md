@@ -29,7 +29,7 @@ PyTorch redesigns and implements Torch in Python while sharing the same core C l
 
    - Module: Neural network layer which will store state or learnable weights.
 
-### Advantages of PyTorch
+## Advantages of PyTorch
 The following are the advantages of PyTorch:
 
 - easy to debug and understand the code
@@ -42,6 +42,6 @@ The following are the advantages of PyTorch:
 
 - allows building networks whose structure is dependent on computation itself
 
-### TensorFlow vs. PyTorch
+## TensorFlow vs. PyTorch
 
 

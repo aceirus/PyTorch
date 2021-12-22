@@ -36,7 +36,7 @@ The following are the advantages of PyTorch:
 
 - includes many layers as Torch
 
-- contains a lot of loss functions
+- provides a lot of loss functions
 
 - can be considered as form of NumPy extension to GPUs
 

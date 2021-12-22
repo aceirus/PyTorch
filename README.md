@@ -44,4 +44,4 @@ The following are the advantages of PyTorch:
 
 ## TensorFlow vs. PyTorch
 
-
+<img src="https://github.com/aceirus/PyTorch/blob/main/pictures/PyTorch.vs.TensorFlow.jpg" width=604 height=523 style="float: left; margin-right: 0px;" />

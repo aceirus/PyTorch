@@ -1,6 +1,6 @@
 # PyTorch
 
-This is a simple tutorial to provide an understanding of what is PyTorch and what it is useful for.
+This is a simple tutorial to provide an understanding of what PyTorch is about and what it is useful for.
 
 ## Introduction
 

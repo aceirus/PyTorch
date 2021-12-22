@@ -18,17 +18,17 @@ PyTorch redesigns and implements Torch in Python while sharing the same core C l
 ### Python usage
 - This library is considered to be Pythonic (as mentioned earlier) which smoothly integrates with the Python data science stack. Thus, it can leverage all the services and functionalities offered by the Python environment.
 
-### Modules
-- Autograd module
-   - PyTorch uses a method called automatic differentiation. A recorder records what operations have been performed, and then it replays it backward to compute the gradients. This method is especially powerful when building neural networks to save time on one epoch by calculating differentiation of the parameters at the forward pass.
+## Modules
+### Autograd module
+- PyTorch uses a method called automatic differentiation. A recorder records what operations have been performed, and then it replays it backward to compute the gradients. This method is especially powerful when building neural networks to save time on one epoch by calculating differentiation of the parameters at the forward pass.
 
-- Optim module
-   - torch.optim is a module that implements various optimization algorithms used for building neural networks. Most of the commonly used methods are already supported, so there is no need to build them from scratch.
+### Optim module
+- torch.optim is a module that implements various optimization algorithms used for building neural networks. Most of the commonly used methods are already supported, so there is no need to build them from scratch.
 
-- nn module
-   - PyTorch autograd makes it easy to define computational graphs and take gradients, but raw autograd can be a bit too low-level for defining complex neural networks. This is where the nn module can help.
+### nn module
+- PyTorch autograd makes it easy to define computational graphs and take gradients, but raw autograd can be a bit too low-level for defining complex neural networks. This is where the nn module can help.
 
-### Computational graphs 
+## Computational graphs 
 - PyTorch provides an excellent platform which offers dynamic computational graphs, which means that a user can make changes during runtime. This is very useful when a developer has no way of telling how much memory is required for creating a neural network model.
 
 - PyTorch is known for having three levels of abstraction as given below

@@ -16,14 +16,14 @@ PyTorch redesigns and implements Torch in Python while sharing the same core C l
 - PyTorch offers easy to use API hence it is considered to be very simple to operate and runs on Python. The code execution in this framework is quite easy
 
 ### Python usage
-− This library is considered to be Pythonic which smoothly integrates with the Python data science stack. Thus, it can leverage all the services and functionalities offered by the Python environment.
+- This library is considered to be Pythonic which smoothly integrates with the Python data science stack. Thus, it can leverage all the services and functionalities offered by the Python environment.
 
 ### Computational graphs 
-− PyTorch provides an excellent platform which offers dynamic computational graphs. Thus a user can change them during runtime. This is highly useful when a developer has no idea of how much memory is required for creating a neural network model.
+- PyTorch provides an excellent platform which offers dynamic computational graphs. Thus a user can change them during runtime. This is highly useful when a developer has no idea of how much memory is required for creating a neural network model.
 
 PyTorch is known for having three levels of abstraction as given below −
 
- -- Tensor − Imperative n-dimensional array which runs on GPU.
+-- Tensor − Imperative n-dimensional array which runs on GPU.
 
 -- Variable − Node in computational graph. This stores data and gradient.
 
